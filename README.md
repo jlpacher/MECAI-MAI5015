@@ -1,2 +1,2 @@
 # MECAI-MAI5015
-Visualização Científica
+Códigos em OCTAVE (versão free do MATLAB) da disciplina de **Visualização Científica do curso de Mestrado USP MECAI**
